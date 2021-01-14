@@ -18,7 +18,7 @@ Uma maneira fácil de interagir com as principais funcionalidades dos [Correios]
 Via Composer
 
 ``` bash
-$ composer require flyingluscas/correios-php
+$ composer require fhferreira/correios-php-fork
 ```
 
 ## Uso
