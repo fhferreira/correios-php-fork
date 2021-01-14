@@ -1,5 +1,5 @@
 {
-    "name": "flyingluscas/correios-php",
+    "name": "fhferreira/correios-php-fork",
     "type": "library",
     "description": "Uma maneira fácil de interagir com as principais funcionalidades dos Correios.",
     "keywords": [
@@ -11,7 +11,7 @@
         "rastreio",
         "cep"
     ],
-    "homepage": "https://github.com/flyingluscas/correios-php",
+    "homepage": "https://github.com/fhferreira/correios-php-fork",
     "license": "MIT",
     "authors": [
         {
